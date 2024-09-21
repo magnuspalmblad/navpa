@@ -1,3 +1,4 @@
+![navpa logo](navpa.png)
 # navpa
 Navpa is non-software, deriving its name from _nav pa'_, Klingon for [paper town](https://en.wikipedia.org/wiki/Phantom_settlement). Paper towns, aslo known as phantom settlements, were historically used to detect plagiarism and possible copyright violation published works, such as maps and dictionaries (see also the excellent [book](https://en.wikipedia.org/wiki/Paper_Towns_(novel)) by the same name by author and YouTuber [John Green](https://en.wikipedia.org/wiki/John_Green)).
 
